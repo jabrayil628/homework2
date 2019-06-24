@@ -1,0 +1,50 @@
+.container {
+    width: 1000px;
+    height: auto;
+    margin: auto;
+
+
+}
+.container a{
+color: red;
+}
+.container #main-bio  {
+    width: 700px;
+    height: 400px;
+    
+    float: left;
+
+}
+.container #contact-info {
+    width: 300px;
+    height: 400px;
+    
+    float: left;
+
+}
+
+h1{
+    border: 1px solder red;
+    background: black;
+    color:white;
+    text-align: center;
+    padding: 20px;
+    font-size: 24px;
+}
+h2{
+    padding: 20px;
+    font-size: 24px;
+    font-weight: bold;
+
+
+}
+
+
+#bio-image {
+    margin-right: 10px;
+    float: left;
+}
+body {
+    background-color: blanchedalmond;
+    
+}
